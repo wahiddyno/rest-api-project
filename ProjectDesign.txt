@@ -1,0 +1,16 @@
+Actions that will done:
+
+1, Add a account - POST
+2, Add a shop - POST
+3, Update/Change a Account - PUT
+4, Update/Change a shop - PUT
+5, Delete a shop - DELETE 
+6, Delete a Account - DELETE 
+
+
+____________________________________________________
+
+Classes:
+    class Account()
+    class Shop()
+    class Shopstatus()
